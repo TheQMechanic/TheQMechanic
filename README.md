@@ -4,10 +4,10 @@
 >
 > -Khayri R.R. Woulfe
 
-Hi there! I'm a *young* **dev** and **programmer** based in the US. I'm new to the GitHub community, but hope to make a greta impact on it! I specialize in Python programming. I am passionate about **Interpreters**, **Compilers**, and **React Programming**. Currently, I'm looking forward on working on open-source projects. Besides programming, I like to play [Gimkit](https://www.gimkit.com/) and Roblox in my spare time. 
+Hi there! I'm a *young* **dev** and **programmer** based in the US. I'm new to the GitHub community, but hope to make a greta impact on it! I specialize in Python programming. I am passionate about **Interpreters**, **Compilers**, and **React Programming**. Currently, I'm looking forward on working on open-source projects. 
 
 **Skills** : Python(Advanced), HTML(Intermediate), CSS(Beginner), JavaScript(Intermediate), C/C++(Beginner), Swift(Intermediate). <br>
-**Tools** : GitHub, VS Code, Itch.io, Replit.  
+**Tools** : GitHub, VS Code, Itch.io, Replit. 
 
 Extension on Skills: <br>
 ```
@@ -26,7 +26,6 @@ Extension on Skills: <br>
 * 🌱 I’m currently learning everything.🤣
 * 🤔 I hope to be proficient in React. 
 * 💬 Ask me about anything and I would like to answer.
-* 📫 Please contact me via valuex.programmer.ces@gmail.com
 
 -----
 
