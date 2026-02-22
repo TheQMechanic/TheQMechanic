@@ -1,43 +1,45 @@
-# "Hello, world!"
+# TheQMechanic
 
-> If, at first, you do not succeed, call it version 1.0. 
->
-> -Khayri R.R. Woulfe
+Exploring the architecture of intelligence.
 
-Hi there! I'm a *young* **dev** and **programmer** based in the US. I'm new to the GitHub community, but hope to make a greta impact on it! I specialize in Python programming. I am passionate about **Interpreters**, **Compilers**, and **React Programming**. Currently, I'm looking forward on working on open-source projects. 
+---
 
-**Skills** : Python(Advanced), HTML(Intermediate), CSS(Beginner), JavaScript(Intermediate), C/C++(Beginner), Swift(Intermediate). <br>
-**Tools** : GitHub, VS Code, Itch.io, Replit. 
+## Overview
 
-Extension on Skills: <br>
-```
-| Language   |  Yrs of Exp |                              Level of Exp                     | 
-| Python     |     >1      |                 ▰▰▰▰▰▰▰▰▱▱   85%                      |
-| JavaScript |     >2      |                 ▰▰▰▰▰▰▰▰▱▱   85%                      | 
-| HTML       |     >1      |                 ▰▰▰▰▰▰▱▱▱▱    69%                     | 
-| CSS        |     <1      |                 ▰▰▰▰▱▱▱▱▱▱    45%                     | 
-```
-<br>
-<br>
-<br>
-<br>
+I study and design systems at the edge of computation.
 
-* 🔭 I’m currently working on **TEPL**.
-* 🌱 I’m currently learning everything.🤣
-* 🤔 I hope to be proficient in React. 
-* 💬 Ask me about anything and I would like to answer.
+My work centers on the idea that intelligence, language, and mathematics are structured mechanisms — and that deeper models of computation may unlock new dimensions of reasoning.
 
------
+---
 
+## Research Interests
 
- <br>
- <br>
- <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TENTHER101&layout=compact&hide=html&theme=dracula"/>
- 
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TENTHER101&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </P><br>
- 
- 
-----------------
+- Foundations of artificial intelligence  
+- Higher-dimensional computational systems  
+- Programming language design  
+- Theoretical machine learning  
+- Mathematical structures underlying physics  
+
+---
+
+## Current Work
+
+- Developing experimental computational models  
+- Investigating reliability limits of generative AI  
+- Designing structured directional programming paradigms  
+- Studying advanced mathematics and physics  
+
+---
+
+## Long-Term Direction
+
+To contribute to foundational advances in:
+
+- Computational theory  
+- Artificial general intelligence  
+- Quantum computing  
+- Mathematical problem solving at scale  
+
+---
+
+> Engineering deeper layers of intelligence.
