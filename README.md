@@ -1,45 +1,49 @@
 # TheQMechanic
 
-Exploring the architecture of intelligence.
+A student, programmer, and procrastinator (😂). 
 
----
+I'm a dual-enrollment student pursuing Mechatronics while exploring artificial intelligence, programming language design, cloud computing, cybersecurity, and advanced mathematics. 
 
-## Overview
+Most of my projects are experiments. Some are software, some are theoretical, and some sit somewhere in between. 
 
-I study and design systems at the edge of computation.
+## Current Interests
 
-My work centers on the idea that intelligence, language, and mathematics are structured mechanisms — and that deeper models of computation may unlock new dimensions of reasoning.
+* AI Agents, AI Automations, and Multi-AI Agent Systems
+* Ethical Hacking and Penetration Testing
+* Serverless Applications, Containers, and Edge Computing
+* Swarm Robotics and Mechatronics
+* Mathematics
 
----
+## Current Projects
 
-## Research Interests
+* EdTech Platform
+* Learning Guides
+* AI Automations and Productivity Tools
+* Note-taking applications
+* Messaging applications
+* MCP Servers
+* APIs
+* Plugins for websites I use
+* And more (I really need to stick to one...)
 
-- Foundations of artificial intelligence  
-- Higher-dimensional computational systems  
-- Programming language design  
-- Theoretical machine learning  
-- Mathematical structures underlying physics  
+## Current Learning
+* NumPy
+* Pandas
+* Networking Basics
+* Web App Pentesting
+* AI Automation and Security
+* Prompt Engineering
+* MCP Server Development
+* API Development
+* LangChain
+* And more (lol)
 
----
+## Currently Working Toward
 
-## Current Work
+* AAS in Mechatronics
+* AI, Cloud, and Cybersecurity certifications
+* Building a portfolio of software and automation projects
 
-- Developing experimental computational models  
-- Investigating reliability limits of generative AI  
-- Designing structured directional programming paradigms  
-- Studying advanced mathematics and physics  
+## Long-Term Goals
 
----
-
-## Long-Term Direction
-
-To contribute to foundational advances in:
-
-- Computational theory  
-- Artificial general intelligence  
-- Quantum computing  
-- Mathematical problem solving at scale  
-
----
-
-> Engineering deeper layers of intelligence.
+I hope to one day work at the intersection of AI, robotics, and cybersecurity—something like an Edge AI Red-Teaming Specialist. 
