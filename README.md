@@ -2,7 +2,7 @@
 
 A student, programmer, and procrastinator (😂). 
 
-I'm a dual-enrollment student pursuing Mechatronics while exploring artificial intelligence, programming language design, cloud computing, cybersecurity, and advanced mathematics. 
+I'm a dual-enrollment student pursuing Information Technology while exploring artificial intelligence, programming language design, cloud computing, cybersecurity, and advanced mathematics. 
 
 Most of my projects are experiments. Some are software, some are theoretical, and some sit somewhere in between. 
 
@@ -40,7 +40,7 @@ Most of my projects are experiments. Some are software, some are theoretical, an
 
 ## Currently Working Toward
 
-* AAS in Mechatronics
+* AAS in Information Technology -- Specializing in Cloud & Networking Technologies
 * AI, Cloud, and Cybersecurity certifications
 * Building a portfolio of software and automation projects
 
